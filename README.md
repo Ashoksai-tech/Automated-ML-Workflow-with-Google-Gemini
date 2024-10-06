@@ -235,25 +235,12 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
-
-
 ## 📞 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-
-Feel free to reach out for any questions or collaboration opportunities!
-
-
+- **Author**: ASHOK SAI G
+- **Email**: aashoksai306@gmail.com
+- **LinkedIn**: [ASHOK SAI G](https://www.linkedin.com/in/ashok-sai-g-165b98243?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BViXO8%2FSpRaGJBK4HdcGoSQ%3D%3D)
 
 **Thank you for using the Automated Machine Learning and NLP Workflow Application!** 🎉
-
-*Note: Ensure that you replace placeholders like `Your_Google_Gemini_API_Key_Here`, `Your Name`, and contact information with your actual details.*
 
 ---
