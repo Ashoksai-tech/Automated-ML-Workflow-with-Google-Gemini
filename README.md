@@ -189,30 +189,7 @@ Built with Streamlit, it streamlines the process of data preprocessing, explorat
    - **Inference**: Input new text and get predictions from the trained model.
    - **Result Interpretation**: Understand and interpret the model's predictions and performance.
 
-
- 
-
-## 🔮 Future Enhancements
-
-- **Advanced NLP Features**:
-  - Incorporate more advanced NLP tasks such as named entity recognition, sentiment analysis, and machine translation.
-  - Add support for more pre-trained models and fine-tuning options.
-- **Deep Learning Models**:
-  - Integrate deep learning frameworks like TensorFlow or PyTorch for complex modeling tasks.
-- **Automated Hyperparameter Tuning**:
-  - Implement automated hyperparameter optimization techniques for improved model performance.
-- **Real-time Data Processing**:
-  - Enable real-time data ingestion and processing capabilities.
-- **User Authentication**:
-  - Add user authentication and authorization for secure access.
-- **Deployment Options**:
-  - Provide easy deployment options using Docker and cloud platforms like AWS, Azure, or GCP.
-- **Interactive Visualizations**:
-  - Enhance data visualization with interactive and dynamic charts using libraries like Plotly.
-- **Error Handling and Logging**:
-  - Improve error handling mechanisms and implement comprehensive logging for better debugging and monitoring.
-
----
+ ---
 
 ## 🤝 Contributing
 
